@@ -18,12 +18,27 @@
 <node CREATED="1313377096079" ID="ID_1741561719" MODIFIED="1313377115423" TEXT="stress testing workflow(STRES)"/>
 <node CREATED="1313377123470" ID="ID_1089856855" MODIFIED="1313377138096" TEXT="displayable reports(DRPT)"/>
 </node>
+<node CREATED="1383202952742" ID="ID_1165548187" MODIFIED="1383202954950" TEXT="dental"/>
 <node CREATED="1313376326759" FOLDED="true" ID="ID_1902469270" MODIFIED="1313377201972" TEXT="eye care">
 <node CREATED="1313377169831" ID="ID_470625391" MODIFIED="1313377179034" TEXT="eye care workflow(EYECARE)"/>
 <node CREATED="1313377180425" ID="ID_1090635465" MODIFIED="1313377188456" TEXT="eye care evidence document(ECED)"/>
 <node CREATED="1313377190284" ID="ID_799951638" MODIFIED="1313377199159" TEXT="eye care displayable report(ECDR)"/>
 </node>
-<node CREATED="1313376330728" ID="ID_169713694" MODIFIED="1314774271716" TEXT="it infrastructure">
+<node CREATED="1313376330728" FOLDED="true" ID="ID_169713694" MODIFIED="1383203974435">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      it infrastructure
+    </p>
+    <p>
+      focus on document sharing
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1313377226519" ID="ID_1138289945" MODIFIED="1313377235972" TEXT="Consistent time(CT)"/>
 <node CREATED="1313377246816" ID="ID_903969333" MODIFIED="1313377259801" TEXT="Audit Trail and note authentication(ATNA)"/>
 <node CREATED="1313377279348" ID="ID_152854762" MODIFIED="1313377309286" TEXT="Request Information for Display(RID)"/>
